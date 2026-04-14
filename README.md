@@ -2,6 +2,8 @@
 
 **Clear cache and cookies instantly. Dev Mode for hard reload (bypass cache).**
 
+[Chrome Extension Link
+](https://chromewebstore.google.com/detail/swift-cleaner/dekpkpdnbdifjiifglfjdbampkdbmjlc)
 ---
 
 ## 🚀 Overview
